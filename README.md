@@ -24,7 +24,7 @@ First, run the development server:
 ```bash
 npm install
 # or
-yarn instll
+yarn install
 
 # and Now:
 
